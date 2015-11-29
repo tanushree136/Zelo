@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+    android:id="@+id/empty"
+    android:orderInCategory="101"
+    android:title=""
+    app:showAsAction="always"
+    android:icon="@drawable/ic_action_overflow">
+    <menu>
+        <item
+          android:id="@+id/menu_add"
+          android:orderInCategory="96"
+          app:showAsAction="never"
+          android:title="Add"
+          android:icon="@drawable/ic_action_add"/>
+    </menu>
+  </item>
+</menu>

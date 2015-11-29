@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\biagarwa\Zelo\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\biagarwa\Zelo\app\build\intermediates\pre-dexed\debug\classes-fec9a0e149b1c62e5b09790ffea4d030a25123b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\biagarwa\Zelo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\biagarwa\Zelo\app\build\intermediates\pre-dexed\debug\classes-432e55b1d7ee639f7e1b731d02fd86788d21ca7a.jar" />
+    </item>
+    <item
+        jar="C:\Users\biagarwa\Zelo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\Users\biagarwa\Zelo\app\build\intermediates\pre-dexed\debug\classes-5c96a7dbee84e0394298cd3ed46ae8c07760d775.jar" />
+    </item>
+    <item
+        jar="C:\Users\biagarwa\Zelo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\biagarwa\Zelo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-243b63946b85c8d431ab1bd5d81204658796f778.jar" />
+    </item>
+    <item
+        jar="C:\Users\biagarwa\Zelo\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\biagarwa\Zelo\app\build\intermediates\pre-dexed\debug\classes-70a4880c6edfbcd30382f0b7d65e1da26d2981d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\biagarwa\Zelo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\biagarwa\Zelo\app\build\intermediates\pre-dexed\debug\classes-db4ed492c0a508578403fa6065108389f36fd2a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\biagarwa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\biagarwa\Zelo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-62e48c04fa98792f15182eeaccc7f7fd2d8d5ecf.jar" />
+    </item>
+
+</items>
