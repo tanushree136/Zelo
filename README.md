@@ -1,5 +1,5 @@
 # Zelo Task
-Supports Min Android Version : 4.0 <br /> 
+Supports Min Android SDK Version : 9 <br />
 
 Compile Dependencies : <br /> 
 1. 'com.android.support:appcompat-v7:23.0.1' <br /> 
